@@ -1,0 +1,3 @@
+IoC means the control of creating and managing objects is handled by Spring, not by the developer.
+Spring decides when and how objects are created.
+
